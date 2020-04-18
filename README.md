@@ -1,7 +1,6 @@
 # Direct3D 9-to-11
 
-[![AppVeyor build status](https://ci.appveyor.com/api/github/webhook?id=hw54ak8evyg0kr8i
-)](https://ci.appveyor.com/project/rainxh11/d3d9-to-11)
+[![AppVeyor build status](https://ci.appveyor.com/api/github/webhook?id=hw54ak8evyg0kr8i)](https://ci.appveyor.com/project/rainxh11/d3d9-to-11)
 [![Lines of Code](https://tokei.rs/b1/github/GabrielMajeri/d3d9-to-11)](https://github.com/GabrielMajeri/d3d9-to-11)
 [![LGPL-3.0](https://img.shields.io/github/license/GabrielMajeri/d3d9-to-11.svg)](LICENSE)
 
